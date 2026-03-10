@@ -1,6 +1,5 @@
 
 public class Sum {
-    int a, b;
     int A (int a, int b){
         
         return a+b;
